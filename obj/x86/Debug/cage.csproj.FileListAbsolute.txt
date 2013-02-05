@@ -1,0 +1,8 @@
+C:\Projects\Code\cage\bin\Debug\cage.exe
+C:\Projects\Code\cage\bin\Debug\cage.pdb
+C:\Projects\Code\cage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\Code\cage\obj\x86\Debug\cage.ImageSwitcherForm.resources
+C:\Projects\Code\cage\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\Code\cage\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\Code\cage\obj\x86\Debug\cage.exe
+C:\Projects\Code\cage\obj\x86\Debug\cage.pdb
