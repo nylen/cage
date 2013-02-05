@@ -3,7 +3,7 @@ cage
 
 Nicolas Cage
 
-Use this executable to prank your friends.  Get it to execute on their computer somehow.  Timer, script, whatever.  That part is up to you.
+Use this executable to prank your friends.  Get it to execute on their computer somehow.  Timer, script, whatever.  That part is up to you.  One easy way to do this is to place the program (or a shortcut to it) in the start menu -> Programs -> Startup folder.
 
 Download it here:  https://github.com/nylen/cage/raw/master/bin/Debug/cage.exe
 
